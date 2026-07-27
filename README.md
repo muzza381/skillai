@@ -165,3 +165,5 @@ Return strict JSON with: score, timeComplexity, spaceComplexity, passedCases, fe
 
 ## 📜 License
 MIT License. Built for the Final App Challenge.
+![alt text](image.png)
+![alt text](image-1.png)
